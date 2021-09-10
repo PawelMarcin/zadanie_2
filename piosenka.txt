@@ -3,10 +3,7 @@ Words&Music by Prince
 
 zwrotka1.txt
 
-Sometimes it snows in April
-Sometimes I feel so bad, so bad
-Sometimes I wish that life was never ending
-And all good things, they say, never last
+refren1.txt
 
 Springtime was always my favorite time of year
 A time for lovers holding hands in the rain
