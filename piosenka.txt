@@ -11,10 +11,4 @@ refren2.txt
 
 zwrotka3.txt
 
-Sometimes it snows in April
-Sometimes I feel so bad
-So bad
-Sometimes I wish that life was never ending
-But all good things, they say, never last
-But all good things they say, never last
-And love, it isn't love until it's past
+refren3.txt
