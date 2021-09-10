@@ -5,15 +5,7 @@ zwrotka1.txt
 
 refren1.txt
 
-Springtime was always my favorite time of year
-A time for lovers holding hands in the rain
-Now springtime only reminds me of Tracy's tears
-Always cry for love, never cry for pain
-He used to say so strong, unafraid to die
-Unafraid of the death that left me
-Hypnotized
-No, staring at his picture I realized
-No one could cry the way my Tracy cried
+zwrotka2.txt
 
 Sometimes it snows in April
 Sometimes I feel so bad
