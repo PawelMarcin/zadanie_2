@@ -9,9 +9,6 @@ zwrotka2.txt
 
 refren2.txt
 
-I often dream of heaven and I know that Tracy's there
-I know that he has found another friend
-Maybe he's found the answer to all the April snow
-Maybe one day I'll see my Tracy again
+zwrotka3.txt
 
 refren3.txt
