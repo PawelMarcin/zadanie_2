@@ -7,10 +7,7 @@ refren1.txt
 
 zwrotka2.txt
 
-Sometimes it snows in April
-Sometimes I feel so bad
-Sometimes, sometimes I wish that life was never ending
-But all good things, they say, never last
+refren2.txt
 
 I often dream of heaven and I know that Tracy's there
 I know that he has found another friend
